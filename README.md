@@ -12,6 +12,6 @@ pip install -r requirements.txt
 ```
 3) Run program :
 ```
-python keylogger.txt
+python keylogger.py
 ```
 4) Press `esc` key to exit this program then see `log.txt` which includes keys typed by a victim.
