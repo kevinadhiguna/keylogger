@@ -18,4 +18,5 @@ python keylogger.py
 
 ### Note: Only for educational purposes. I will not be responsible for any issues caused.
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/keylogger)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=keylogger&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
